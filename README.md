@@ -1,2 +1,3 @@
 # table-generator
-just a quick project that is extremely specialized, for a single purpose
+just a quick project that is extremely specialized, for a single purpose...
+or so I thought it ended up taking a lot more time than anticipated :)
